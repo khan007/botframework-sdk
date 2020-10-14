@@ -48,7 +48,7 @@ namespace Microsoft.BotBuilderSamples.EchoSkillBot.Bots
                 {
                     var obj = JObject.Parse(await weatherReport.Content.ReadAsStringAsync());
                     var report = JsonConvert.DeserializeObject<List<SingleDay>>(JsonConvert.SerializeObject(obj["properties"]["periods"]))[0];
-                    messageText = $"{report.Name} the weather in Redmond is {report.ShortForecast} with a temperature of {report.Temperature}.";
+                    messageText = $"{report.Name} the weather in Redmond is {report.ShortForecast.ToLower()} with a temperature of {report.Temperature} degrees.";
                     await turnContext.SendActivityAsync(MessageFactory.Text(messageText, messageText, InputHints.IgnoringInput), cancellationToken);
                 }
                 else
