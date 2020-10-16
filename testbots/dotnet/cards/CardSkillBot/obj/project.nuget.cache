@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DtwDIIcvrp4TT9zmSX7pCo4oVbLvp8CHgnCG9uR37kmNYXWFQUDmx40Fau9wHRWkLAbpwjT+5Ob1tJpFiSpNdA==",
+  "dgSpecHash": "TbOEA4X1r4Iy8savB6W4FKM4Uo6H1dP/vsPD3LmWen0c0ouYbqbW7bRdMVwwLGLCmiUWa87EpYO2aGPGDL5EZQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\WeatherSkillBot\\CardSkill.csproj",
+  "projectFilePath": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\CardSkillBot\\CardSkill.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joratlif\\.nuget\\packages\\adaptivecards\\2.2.0\\adaptivecards.2.2.0.nupkg.sha512",
     "C:\\Users\\joratlif\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.1\\microsoft.aspnetcore.jsonpatch.3.1.1.nupkg.sha512",

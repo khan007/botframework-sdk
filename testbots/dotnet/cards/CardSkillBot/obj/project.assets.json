@@ -6347,11 +6347,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\WeatherSkillBot\\CardSkill.csproj",
+      "projectUniqueName": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\CardSkillBot\\CardSkill.csproj",
       "projectName": "Microsoft.BotBuilderSamples.EchoSkillBot",
-      "projectPath": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\WeatherSkillBot\\CardSkill.csproj",
+      "projectPath": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\CardSkillBot\\CardSkill.csproj",
       "packagesPath": "C:\\Users\\joratlif\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\WeatherSkillBot\\obj\\",
+      "outputPath": "C:\\Users\\joratlif\\botframework-sdk\\testbots\\dotnet\\cards\\CardSkillBot\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
